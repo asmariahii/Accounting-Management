@@ -1,0 +1,6 @@
+services:
+  ai_module:
+    build: .
+    ports:
+      - "5001:5001"
+    restart: always
