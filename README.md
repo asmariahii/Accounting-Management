@@ -58,7 +58,7 @@ The app integrates a powerful AI module built with **Python (venv)** and **XGBoo
 - Tax alerts & regulatory notifications
 - Built-in rules to ensure compliance with Tunisian accounting standards
 
----
+------
 
 ## 🗂️ Project Structure
 
