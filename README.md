@@ -11,7 +11,7 @@ Designed specifically to meet the needs of the **Tunisian accounting system**, t
 
 ## 🧠 AI Integration
 
-The app integrates a powerful AI module built with **Python (venv)** and **XGBoost** to provide:
+The app integrates a powerful AI module built with **Python (venv)** and **XGBoost** to provide
 - **Fraud Detection**: Detect suspicious transactions based on historical data.
 - **Predictive Analytics**: Forecast revenue, expenses, and liquidity.
 - **Smart Prioritization**: Identify and highlight critical accounting tasks.
