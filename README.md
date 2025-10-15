@@ -7,11 +7,11 @@ This project is a full-featured **Accounting Management Application** developed 
 
 Designed specifically to meet the needs of the **Tunisian accounting system**, this platform aims to streamline business financial management while incorporating smart automation and compliance monitoring.
 
----
+---------------
 
 ## 🧠 AI Integration
 
-The app integrates a powerful AI module built with **Python (venv)** and **XGBoost** to provide:
+The app integrates a powerful AI module built with **Python (venv)** and **XGBoost** to provide
 - **Fraud Detection**: Detect suspicious transactions based on historical data.
 - **Predictive Analytics**: Forecast revenue, expenses, and liquidity.
 - **Smart Prioritization**: Identify and highlight critical accounting tasks.
@@ -58,7 +58,7 @@ The app integrates a powerful AI module built with **Python (venv)** and **XGBoo
 - Tax alerts & regulatory notifications
 - Built-in rules to ensure compliance with Tunisian accounting standards
 
----
+------
 
 ## 🗂️ Project Structure
 
@@ -140,3 +140,4 @@ For questions or collaboration inquiries, feel free to open an issue or contact 
 ---
 
 > _“Bringing AI and compliance together for smarter accounting.”_
+> ramoussa
