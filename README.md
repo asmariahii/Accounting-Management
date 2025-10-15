@@ -7,7 +7,7 @@ This project is a full-featured **Accounting Management Application** developed 
 
 Designed specifically to meet the needs of the **Tunisian accounting system**, this platform aims to streamline business financial management while incorporating smart automation and compliance monitoring.
 
----
+---------------
 
 ## 🧠 AI Integration
 
